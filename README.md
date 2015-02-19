@@ -1,7 +1,8 @@
 # ingenkopaisen
-Daily swedish 'ordspråk'
-
+Improve your 'ordspråk' vocabulary and enhance your terminal experience by fetching a swedish 'ordspråk' from Wikipedia.
 # Installation
+Requires python 2.7.x.
+## Install dependencies:
 ```
 pip install -r requirements.txt
 ```
