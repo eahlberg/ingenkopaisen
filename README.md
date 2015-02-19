@@ -1,13 +1,21 @@
 # ingenkopaisen
 Improve your 'ordspråk' vocabulary and enhance your terminal experience by fetching a swedish 'ordspråk' from Wikipedia.
-# Installation
-Requires python 2.7.x. and pip
-## Install dependencies:
+## Requirements
+- Python 2.7.x
+- pip
+
+### Install required pip packages
 ```
 pip install -r requirements.txt
 ```
-# Running
-Make the script executable, then:
-First run (fetches data from Wikipedia): ./run.py -u
-Without fetching new data: ./run.py
+
+## Running
+- First run (fetches data from Wikipedia): 
+```
+$ python run.py -u
+```
+- Run without fetching new data: 
+```
+$ python run.py
+```
 
