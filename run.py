@@ -13,7 +13,7 @@ def main():
     print get_saying()
 
 def update():
-    URL = "http://sv.wikipedia.org/wiki/Lista_över_svenska_idiomatiska_uttryck"
+    URL = "http://sv.wikipedia.org/wiki/Lista_över_svenska_ordspråk"
     r = requests.get(URL)
     html_doc = r.text
     save_to_file(r.text.encode("utf-8"))
