@@ -10,11 +10,11 @@ pip install -r requirements.txt
 ```
 
 ## Running
-- First run (fetches data from Wikipedia): 
+First run (fetches data from Wikipedia): 
 ```
 $ python run.py -u
 ```
-- Run without fetching new data: 
+Run without fetching new data: 
 ```
 $ python run.py
 ```
