@@ -6,7 +6,7 @@ Improve your 'ordspråk' vocabulary and enhance your terminal experience by fetc
 
 ### Install required pip packages
 ```
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 ## Running
